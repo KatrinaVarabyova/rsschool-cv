@@ -113,3 +113,9 @@ body {
 .github{color:brown; 
 }
 
+footer{
+  background-color: #e6f387;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  }
